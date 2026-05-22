@@ -1,0 +1,5 @@
+# Ignore local activity data containing private file names/paths
+dashboard_data.js
+dashboard_data.json
+.spotify_history.json
+.DS_Store
