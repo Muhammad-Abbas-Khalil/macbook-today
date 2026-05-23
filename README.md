@@ -15,7 +15,7 @@ Every time you run it, `dashboard_collector.py` scans your machine and generates
 - 🔀 **Git commits** across all local repositories
 - 🎵 **Spotify** — currently playing track + today's listening history
 - 🗑️ **Trash** contents with sizes
-- 📊 **System stats** — battery, disk usage, RAM
+- 📊 **System stats** — battery, disk usage
 - ⏱️ **Active time estimate** based on file edit patterns
 - 🌈 **Work vibe** — auto-detected mood based on your activity
 
