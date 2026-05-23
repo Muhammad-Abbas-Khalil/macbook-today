@@ -27,7 +27,7 @@ The data is written to `dashboard_data.js` which the frontend (`index.html`) rea
 
 > The dashboard running with live data on macOS.
 
-![MacBook Today Dashboard](https://macbooktoday.netlify.app)
+![MacBook Today Dashboard](screenshot.png)
 
 ---
 
